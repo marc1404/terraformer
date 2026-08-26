@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: Apache-2.0
 // This file was copied from the kubernetes/kubernetes project
 // https://github.com/kubernetes/kubernetes/blob/v1.19.0/test/e2e/framework/cleanup.go
-// Modifications SPDX-FileCopyrightText: 2020 SAP SE or an SAP affiliate company and Gardener contributors
+// Modifications SPDX-FileCopyrightText: Copyright Contributors to the Gardener project
 
 package utils
 
